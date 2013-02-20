@@ -9,7 +9,6 @@ my $gpsd=Net::GPSD3->new;
 
 #/usr/local/share/perl/5.14.2/Net/GPSD3.pm
 
-
 #sub poll {
 #  my $self=shift;
 #$self->socket->send(qq(?WATCH={"enable":true};\n)); # NEW COMMAND
